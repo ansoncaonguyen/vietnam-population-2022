@@ -24,11 +24,13 @@ Ngoài ra, nhóm sử dụng thêm nguồn dữ liệu từ Word Bank để vẽ
 
 Dashboard chính thể hiện dân số trung bình và mật độ dân số của các tỉnh thành tại Việt Nam. 
 
+![main dashboard](/img/dashboard1.png "Dashboard chính")
+
+
 Nhóm có sử dụng thêm biểu đồ Tree Map để thể hiện sự tương quan giữa dân số trung bình và mật độ dân số của các tỉnh thành. Mật độ dân số tiếp tục sử dụng màu sắc để thể hiện, còn dân số trung bình ta sẽ sử dụng kích thước của ô trong biểu đồ. Ta thấy, hai thành phố Hồ Chí Minh và thủ đô Hà Nội vừa có dân số trung bình cao nhất cũng như mật độ dân số cũng lần lượt đứng vị trí cao nhất. Ở các tỉnh thành còn lại, ta thấy rõ dù dân số trung bình có cao nhưng chưa chắc có mật độ dân số cao. Ví dụ như trường hợp của Thanh Hóa và Nghệ An có dân số trung bình cao hơn nhưng có mật độ dân số thấp hơn hai tỉnh thành có diện tích nhỏ hơn nhưng hiện có nhiều các khu công nghiệp là Đồng Nai và Hải Phòng.
 
 Ngoài ra, nhóm còn sử dụng biểu đồ cột để thể hiện dân số trung bình giữa thành thị và nông thôn, cũng như giữa nam và nữ. Biểu đồ tròn để thể hiện dân số trung bình phân theo các vùng, cũng như thông tin về tuổi thọ trung bình và dân số trung bình ở nước ta. Các thông tin trên sẽ thay đổi tương ứng khi ta thay đổi thanh kéo (slider) để chọn số năm mong muốn.
 
-![main dashboard](/img/dashboard1.png "Dashboard chính")
 
 ### Dashboard về thành phần dân số
 
@@ -41,4 +43,5 @@ Dashboard chứa các biểu đồ về tháp tuổi, so sánh giữa tỉ suấ
 ![dashboard3](/img/dashboard3.png "Dashboard 3")
 
 Dashboard cuối cùng chứa biểu đồ về phần trăm người lao động được đào tạo trong các ngành kinh tế, biểu đồ so sánh giữa tỷ lệ thiếu việc làm và thất nghiệp và cuối cùng là dự đoán tỷ lệ dân số được đào tạo trong những năm sắp tới.
-Xem báo cáo hoàn chỉnh tại: 
+
+Xem báo cáo hoàn chỉnh tại: [[link]](report/Report.pdf)
