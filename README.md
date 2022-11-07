@@ -6,7 +6,7 @@
 | ------------ | ----------------- | ---------------------------------------------------- |
 | 18127196     | Cao Nguyễn An Sơn | [@ansoncaonguyen](https://github.com/ansoncaonguyen) |
 | 18127124     | Bùi Thành Long    | [@buithanhlongcb](https://github.com/buithanhlongcb) |
-| 18127113     | Võ Văn Quốc Huy   |
+| 18127113     | Võ Văn Quốc Huy   | [@huyvo2303](https://github.com/huyvo2303) |
 | 18127187     | Dương Ngọc Nguyên Phương | [@dnnphuong](https://github.com/dnnphuong)
 
 
